@@ -9,6 +9,7 @@ The driving image is an image taken from the kaggle.
 The graph below shows the degree of up-and-down shaking of the image before and after the calibration
 
   Blue line: before calibration
+  
   Green line: after calibration
 
 ![image](https://github.com/gyb357/Video-Stabilizer/assets/43545235/bf870b76-3ee1-4572-9b4e-59b76a97a84e)
