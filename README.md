@@ -6,7 +6,7 @@ Code is not perfect.
 The video was obtained from kaggle.
 ![image](https://github.com/gyb357/Video-Stabilizer/assets/43545235/498871bb-a862-403e-8d41-db7f2e3a5ead)
 
-The graph below shows the degree of up-and-down shaking of the image before and after the calibration.
+The graph below shows the degree of vertical and horizontal axis shaking of the image before and after the calibration.
 
   Blue line: before calibration
   
