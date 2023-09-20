@@ -12,7 +12,10 @@ The graph below shows the degree of up-and-down shaking of the image before and 
   
   Green line: after calibration
 
-![image](https://github.com/gyb357/Video-Stabilizer/assets/43545235/bf870b76-3ee1-4572-9b4e-59b76a97a84e)
+![image](https://github.com/gyb357/Video-Stabilizer/assets/43545235/e092b9f1-3c0b-4a8d-9e76-dfd074ee6750)
+![image](https://github.com/gyb357/Video-Stabilizer/assets/43545235/7255d8d0-e5ea-4d67-938c-29fed1514959)
+
+
 
 Calibration cannot be effective for all situations. In some images, the corrected image is rather more shaky.
 This issue needs to be resolved.
