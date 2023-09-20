@@ -12,8 +12,9 @@ The graph below shows the degree of up-and-down shaking of the image before and 
   
   Green line: after calibration
 
-![image](https://github.com/gyb357/Video-Stabilizer/assets/43545235/e092b9f1-3c0b-4a8d-9e76-dfd074ee6750)
-![image](https://github.com/gyb357/Video-Stabilizer/assets/43545235/7255d8d0-e5ea-4d67-938c-29fed1514959)
+<img width="1030" alt="_1" src="https://github.com/gyb357/Video-Stabilizer/assets/43545235/9dcb26a1-a707-41be-9b69-3cf96d905e7b">
+
+<img width="1023" alt="_2" src="https://github.com/gyb357/Video-Stabilizer/assets/43545235/8bc3634f-f6ee-4f50-963f-e1c77a6ca20b">
 
 
 
